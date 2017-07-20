@@ -8,6 +8,6 @@ This will house Configuration Profiles. Have fun!
 * [https://mosen.github.io/profiledocs/index.html](https://mosen.github.io/profiledocs/index.html)
 * [https://itunes.apple.com/us/book/packaging-for-apple-administrators/id1173928620?mt=11](https://itunes.apple.com/us/book/packaging-for-apple-administrators/id1173928620?mt=11)
 
-Please feel free to add any resources for Profiles.  I currently use a VM with Server installed on it and make my profiles through there.  
+Please feel free to add any resources for Profiles.  I currently use a VM with Server installed on it and make my profiles through there.  For custom profiles I will normally use [mcxToProfile](https://github.com/timsutton/mcxToProfile).
 
 Feel free to share your best practices too!
